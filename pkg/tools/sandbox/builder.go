@@ -42,7 +42,7 @@ import (
 	"github.com/networkservicemesh/sdk/pkg/registry/common/dnsresolve"
 
 	"github.com/networkservicemesh/sdk/pkg/registry/chains/memory"
-	proxydns "github.com/networkservicemesh/sdk/pkg/registry/chains/proxydns"
+	"github.com/networkservicemesh/sdk/pkg/registry/chains/proxydns"
 	interpose_reg "github.com/networkservicemesh/sdk/pkg/registry/common/interpose"
 	adapter_registry "github.com/networkservicemesh/sdk/pkg/registry/core/adapters"
 	"github.com/networkservicemesh/sdk/pkg/registry/core/chain"
